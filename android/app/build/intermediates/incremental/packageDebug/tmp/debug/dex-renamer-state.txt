@@ -1,0 +1,4 @@
+#Tue Nov 26 09:13:26 ART 2019
+base.0=/home/gonz4/Escritorio/React/restaurantApp/android/app/build/intermediates/transforms/dexMerger/debug/0
+path.0=classes.dex
+renamed.0=classes.dex
